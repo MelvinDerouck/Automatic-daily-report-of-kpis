@@ -1,6 +1,8 @@
 # Automatic-daily-report-of-kpis
 Maintenance and Service KPI Dashboards for CHU Hospital
 
+![p](https://github.com/MelvinDerouck/Automatic-daily-report-of-kpis/blob/main/img/sheet%201.png)
+
 ## Project Overview:
 This project aims to enhance operational visibility and decision-making at a hospital (CHU) by developing two dynamic dashboards. The first dashboard is tailored for client presentations, highlighting key performance indicators (KPIs) related to maintenance and service requests. The second dashboard serves internal operational management purposes.
 
@@ -22,6 +24,10 @@ Implements an automation process using Power Automate for seamless data transfer
 
 Power BI Integration:
 Connects Power BI to the SharePoint repository, ensuring real-time and accurate data updates for the dashboards.
+
+![p](https://github.com/MelvinDerouck/Automatic-daily-report-of-kpis/blob/main/img/sheet%202.png)
+
+![p](https://github.com/MelvinDerouck/Automatic-daily-report-of-kpis/blob/main/img/sheet%203.png)
 
 Technologies Used:
 
