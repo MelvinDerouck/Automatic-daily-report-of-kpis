@@ -29,3 +29,9 @@ This workflow automates the transfer of the export file sent daily by the CHU to
 Power BI Integration:
 Connects Power BI to the SharePoint repository, ensuring real-time and accurate data updates for the dashboards.
 
+
+The Vinci teams posted on the CHU website are today fully satisfied with the daily analysis reports they have.
+
+The dashboard for the client is presented during the weekly meeting and allows communication on the different indicators of the week.
+
+The internal management dashboard has made technicians days more fluid and allows operational managers to have a dedicated management interface to facilitate strategies and decision-making.
