@@ -30,6 +30,7 @@ Power BI Integration:
 Connects Power BI to the SharePoint repository, ensuring real-time and accurate data updates for the dashboards.
 
 
+## Retrospective 
 The Vinci teams posted on the CHU website are today fully satisfied with the daily analysis reports they have.
 
 The dashboard for the client is presented during the weekly meeting and allows communication on the different indicators of the week.
